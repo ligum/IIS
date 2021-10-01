@@ -34,6 +34,12 @@ from C:\Users\User\source\repos\user\user\bin\Release\net5.0\publish to C:\inetp
 
 Create a new IIS application pool --> Create website (use port 5100 and your new application pool) -->Copy your website to your windows server --> Browse to “http://localhost:5100/” from your microsoft machine
 
-In some cases things don't work properly and you might get a message 
+In some cases things don't work properly and you might get a message
 
-![image text](https://cloud.githubusercontent.com/assets/711743/25648417/57cd2c0c-2fe9-11e7-8753-b60ea2656faf.png)
+
+![image text](http://i.stack.imgur.com/vUhK3.png)
+
+
+if it happens, then follow instructions 
+
+https://forums.asp.net/t/2172068.aspx?ASP+NET+Core+MVC+deploying+to+IIS+Error+Http+Error+500+19+
