@@ -1,11 +1,13 @@
 # <h1>Part 1: Create and build a website</h1>
 open on your local machine:
 
-control panel --> programes and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
+control panel --> programs and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
 install visual studio 2019 and other necessary componets for building your first website
+
 https://visualstudio.microsoft.com/
 
-install .NET 
+install .NET
+
 https://dotnet.microsoft.com/download
 
 Create “ASP.NET Core Web App” project
