@@ -3,8 +3,10 @@ open on your local machine:
 
 control panel --> programes and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
 install visual studio 2019 and other necessary componets for building your first website
-https://dotnet.microsoft.com/download
+https://visualstudio.microsoft.com/
+
 install .NET 
+https://dotnet.microsoft.com/download
 
 Create “ASP.NET Core Web App” project
 Check your csproj content
