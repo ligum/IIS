@@ -1,4 +1,4 @@
-<h1>Part 1: Create and build a website</h1>
+# <h1>Part 1: Create and build a website</h1>
 open on your local machine:
 control panel --> programes and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
 install visual studio 2019
@@ -11,7 +11,7 @@ Restore Nuget Packages
 Compile (rebuild) your project
 Which files and folders were created?
 Publish your application
-#Part 2: Create website on your Microsoft machine</2>
+## Part 2: Create website on your Microsoft machine</2>
 Add IIS to your windows server
 Create a new IIS application pool
 Create website (use port 5100 and your new application pool)
