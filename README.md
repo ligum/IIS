@@ -26,7 +26,9 @@ create a new application pool without managed code --> add a new website --> mar
 
 Start --> server mananger --> manage --> add roles and features --> next --> next --> web server ( IIS ) --> next --> install --> restart
 
-## Copy you published project from C:\Users\User\source\repos\user\user\bin\Release\net5.0\publish to C:\inetpub\wwwroot\user\ of your windows server machine.
+## Copy you published project 
+
+from C:\Users\User\source\repos\user\user\bin\Release\net5.0\publish to C:\inetpub\wwwroot\user\ of your windows server machine.
 
 ## Open IIS
 
