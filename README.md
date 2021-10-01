@@ -43,3 +43,5 @@ In some cases things don't work properly and you might get a message
 if it happens, then follow instructions 
 
 https://forums.asp.net/t/2172068.aspx?ASP+NET+Core+MVC+deploying+to+IIS+Error+Http+Error+500+19+
+
+![image_text](https://img0.etsystatic.com/012/0/5416189/il_570xN.452124294_8p7d.jpg)
