@@ -1,23 +1,24 @@
 # <h1>Part 1: Create and build a website</h1>
-open on your local machine:
+## open on your local machine:
 
 control panel --> programs and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
 
-install visual studio 2019 and other necessary componets for building your first website
+## install visual studio 2019 and other necessary componets for building your first website
 
 https://visualstudio.microsoft.com/
 
-install .NET
+## install .NET
 
 https://dotnet.microsoft.com/download
 
-Open Visaul Studio 2019 and Create “ASP.NET Core Web App” project
+## Open Visaul Studio 2019 and Create “ASP.NET Core Web App” project
 
 Check your csproj content --> Add “Newtonsoft.Json” --> Check your csproj again, what changed? --> Restore Nuget Packages --> Compile (rebuild) your project
 -->Which files and folders were created? --> Publish your application
 
-Open IIS on your local machine --> create a new application pool without managed code --> add a new website --> mark a physical path --> port number
--->browse your website
+## Open IIS on your local machine
+
+create a new application pool without managed code --> add a new website --> mark a physical path --> port number -->browse your website
 
 # Part 2: Create website on your Microsoft machine
 
