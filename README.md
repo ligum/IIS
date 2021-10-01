@@ -11,9 +11,12 @@ install .NET
 
 https://dotnet.microsoft.com/download
 
-Create “ASP.NET Core Web App” project
+Open Visaul Studio 2019 and Create “ASP.NET Core Web App” project
+
 Check your csproj content
+
 Add “Newtonsoft.Json”
+
 Check your csproj again, what changed?
 Restore Nuget Packages
 Compile (rebuild) your project
