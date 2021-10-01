@@ -13,15 +13,11 @@ https://dotnet.microsoft.com/download
 
 Open Visaul Studio 2019 and Create “ASP.NET Core Web App” project
 
-Check your csproj content
+Check your csproj content --> Add “Newtonsoft.Json” --> Check your csproj again, what changed? --> Restore Nuget Packages --> Compile (rebuild) your project
+-->Which files and folders were created? --> Publish your application
 
-Add “Newtonsoft.Json”
-
-Check your csproj again, what changed?
-Restore Nuget Packages
-Compile (rebuild) your project
-Which files and folders were created?
-Publish your application
+Open IIS on your local machine --> create a new application pool without managed code --> add a new website --> mark a physical path --> port number
+-->browse your website
 
 # Part 2: Create website on your Microsoft machine
 
