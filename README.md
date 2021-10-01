@@ -2,8 +2,10 @@
 open on your local machine:
 
 control panel --> programes and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
-install visual studio 2019
-install .NET and 
+install visual studio 2019 and other necessary componets for building your first website
+https://dotnet.microsoft.com/download
+install .NET 
+
 Create “ASP.NET Core Web App” project
 Check your csproj content
 Add “Newtonsoft.Json”
