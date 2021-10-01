@@ -2,6 +2,7 @@
 open on your local machine:
 
 control panel --> programs and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
+
 install visual studio 2019 and other necessary componets for building your first website
 
 https://visualstudio.microsoft.com/
@@ -19,7 +20,7 @@ Compile (rebuild) your project
 Which files and folders were created?
 Publish your application
 
-## Part 2: Create website on your Microsoft machine
+# Part 2: Create website on your Microsoft machine
 
 Add IIS to your windows server
 Create a new IIS application pool
