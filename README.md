@@ -1,4 +1,8 @@
-<h1>Part 1: Create and build a website</h1>
+#<h1>Part 1: Create and build a website</h1>
+open on your local machine:
+control panel --> programes and features --> add or cancel windows features --> acitvate Internet Information Services --> restart
+install visual studio 2019
+install .NET and 
 Create “ASP.NET Core Web App” project
 Check your csproj content
 Add “Newtonsoft.Json”
