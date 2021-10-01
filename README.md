@@ -22,12 +22,12 @@ create a new application pool without managed code --> add a new website --> mar
 
 # Part 2: Create website on your Microsoft server 2019 machine 
 
-istall IIS to your windows server
+## istall IIS to your windows server
 
 Start --> server mananger --> manage --> add roles and features --> next --> next --> web server ( IIS ) --> next --> install --> restart
 
-Copy you published project from C:\Users\User\source\repos\user\user\bin\Release\net5.0\publish to C:\inetpub\wwwroot\user\ of your windows server machine.
+## Copy you published project from C:\Users\User\source\repos\user\user\bin\Release\net5.0\publish to C:\inetpub\wwwroot\user\ of your windows server machine.
 
-Open IIS
+## Open IIS
 
 Create a new IIS application pool --> Create website (use port 5100 and your new application pool) -->Copy your website to your windows server --> Browse to “http://localhost:5100/” from your microsoft machine
