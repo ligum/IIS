@@ -1,3 +1,4 @@
+![image](https://bootcamp.rhinops.io/images/dev-ops.gif)
 # <h1>Part 1: Create and build a website</h1>
 ## open on your local machine:
 
